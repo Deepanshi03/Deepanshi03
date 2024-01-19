@@ -17,6 +17,7 @@ Feel free to explore my repositories to see what I've been up to!
 ![Cpp](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/620199a3-0a90-443d-b5ee-0a83f700d195)
 ![java](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/0128652d-d908-45b2-a1b1-2d9455569c3f)
 ![python](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/b548ebb3-338d-44d1-a53c-faf763e26e68)
+![Kotlin](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/f88db419-0b0c-41a0-8dfc-7a111f4de5db)
 ![html](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/eaaadcfb-547e-455e-ac53-cf7c413524cf)
 ![CSS](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/d9f8785f-4593-4fee-8c29-52b2c317df64)
 ![js](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/4b052f70-734b-430e-9e01-f46b8f420a1e)
