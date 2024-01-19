@@ -25,6 +25,7 @@ Feel free to explore my repositories to see what I've been up to!
 ![nodeJS](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/bddd34fa-592b-46e3-a981-f7c5a8dbf211)
 ![express](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/462bd575-bc64-41bc-b571-69298511747a)
 ![sping_boot](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/1698dfb4-94c5-4d8a-9764-81df30b9e43c)
+![spring_boot](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/2400fafd-75b5-4aca-9117-23e3301400a2)
 ![mysql](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/f854ad01-8348-4fa3-8e0d-040dc37db48f)
 ![mongoDB](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/bd53fd2d-0f1b-4a6d-84fd-38425e13a481)
 
