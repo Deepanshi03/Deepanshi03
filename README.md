@@ -21,11 +21,11 @@ Feel free to explore my repositories to see what I've been up to!
 ![html](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/eaaadcfb-547e-455e-ac53-cf7c413524cf)
 ![CSS](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/d9f8785f-4593-4fee-8c29-52b2c317df64)
 ![js](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/4b052f70-734b-430e-9e01-f46b8f420a1e)
-![mongoDB](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/bd53fd2d-0f1b-4a6d-84fd-38425e13a481)
-![nodeJS](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/bddd34fa-592b-46e3-a981-f7c5a8dbf211)
 ![React](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/1fa80fa2-660e-4970-9773-302267468415)
+![nodeJS](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/bddd34fa-592b-46e3-a981-f7c5a8dbf211)
 ![express](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/462bd575-bc64-41bc-b571-69298511747a)
 ![mysql](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/f854ad01-8348-4fa3-8e0d-040dc37db48f)
+![mongoDB](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/bd53fd2d-0f1b-4a6d-84fd-38425e13a481)
 
 
 
