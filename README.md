@@ -10,7 +10,7 @@ Feel free to explore my repositories to see what I've been up to!
 
 
 ## 🌐 Socials:
-[![LinkedIn](![image](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/6723683e-3b3b-4f21-b4ba-b3595a95aa43))](https://www.linkedin.com/in/deepanshidey03/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Deepanshi03)
+[![LinkedIn](![image](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white))](https://www.linkedin.com/in/deepanshidey03/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Deepanshi03)
 
 # 💻 Tech Stack:
 ![c](https://github.com/Deepanshi03/Deepanshi03/assets/92084743/3c2be341-431c-4585-a250-64b7e4b1cbef)
