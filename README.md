@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Deepanshi Dey! ![image](https://github.com/user-attachments/assets/1455bd4c-5b2d-44eb-a58f-b1d42e499666)
+Hello, I'm Deepanshi Dey! <img src="https://github.com/user-attachments/assets/1455bd4c-5b2d-44eb-a58f-b1d42e499666" alt="waving hand" width="24"/>
 
 
 I'm a Full Stack Software Developer with a passion for learning and building. I have experience in a wide range of programming languages including C, C++, Python, Java, JavaScript, Kotlin, HTML, CSS, and SQL.
